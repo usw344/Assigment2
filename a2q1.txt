@@ -1,0 +1,7 @@
+copy1():
+	Does not make a copy
+	suitable for the function but does not fix the problem given
+
+copy2():
+	Does create a copy
+	suitable for the function

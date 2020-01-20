@@ -39,7 +39,7 @@ def copy3(data, copy):
     for d in data:
         copy.append(d)
         data.remove(d)
-
+    print(copy)
 
 def copy4(data, copy):
     """
@@ -80,10 +80,16 @@ def selection_sort(unsorted):
     result = list()
 
     # TODO use one of the copy() functions here
+    acopy = copy2(unsorted)
 
     while len(acopy) > 0:
         out = min(acopy)
         acopy.remove(out)
         result.append(out)
-
+    print(unsorted)
     return result
+
+
+inputs = [1,4,5,3,6,8,9,2]
+copy66 = []
+copy3(inputs, copy66 )
