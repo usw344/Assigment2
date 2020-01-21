@@ -1,7 +1,19 @@
+#mua942
+#11275853
+#Muhammad Usman Ahmed
 copy1():
 	Does not make a copy
-	suitable for the function but does not fix the problem given
+	suitable for the function
 
 copy2():
 	Does create a copy
 	suitable for the function
+copy3():
+	Does not create a copy
+	Not suitable for function
+copy4():
+	Does create a copy
+	Not suitable for function
+copy5():
+	Does create a copy
+	Suitable for function

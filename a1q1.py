@@ -39,7 +39,7 @@ def copy3(data, copy):
     for d in data:
         copy.append(d)
         data.remove(d)
-    print(copy)
+
 
 def copy4(data, copy):
     """
@@ -54,6 +54,8 @@ def copy4(data, copy):
     for d in data:
         copy.append(d)
 
+    copy[0]= "foood"
+
 
 def copy5(data):
     """
@@ -66,6 +68,9 @@ def copy5(data):
     copied = []
     for d in data:
         copied += [d]
+
+    data[1] = "fsfdfdg"
+    print(copied)
     return copied
 
 
@@ -92,4 +97,4 @@ def selection_sort(unsorted):
 
 inputs = [1,4,5,3,6,8,9,2]
 copy66 = []
-copy3(inputs, copy66 )
+copy5(inputs)
