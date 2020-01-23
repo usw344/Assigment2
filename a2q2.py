@@ -3,6 +3,7 @@
 #ID 11275853
 #NSID mua942
 #Assigment: 2 Q2
+##Lab L02
 
 def print_image(image):
     """
@@ -28,9 +29,9 @@ def flip_updown(image):
     Preconditions:
         image: a list of lists containing single-character strings
     Post-Conditions:
-        None
+        img: The original list which exists in the Global Frame is changed
     Return:
-        a new list with the rows in reverse order
+        None
     """
     new_image = []
     for row in image:
@@ -42,8 +43,14 @@ def flip_updown(image):
 
 def flip_leftright(image):
     """
-    Flip the image left to right
-    image: a list of lists
+    Purpose:
+        Flip the image left to right
+    Pre:
+        image: a list of lists
+    Post:
+        img: The original list which exists in the Global Frame is changed
+    return:
+        None
     """
     newimage = []
     for row in image:

@@ -1,6 +1,9 @@
-#mua942
-#11275853
-#Muhammad Usman Ahmed
+#Name: Muhammad Usman Ahmed
+#ID 11275853
+#NSID mua942
+#Assigment: 2 Q1
+##Lab L02
+
 copy1():
 	Does not make a copy
 	suitable for the function

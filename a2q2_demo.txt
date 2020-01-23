@@ -1,3 +1,9 @@
+#Name: Muhammad Usman Ahmed
+#ID 11275853
+#NSID mua942
+#Assigment: 2 Q2
+##Lab L02
+
 C:\Users\usw87\Anaconda3\python.exe "D:/Desktop/Computer Science/CMPT145/Assigment2/ascii_art.py"
 
 
