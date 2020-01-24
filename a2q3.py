@@ -4,6 +4,16 @@
 #NSID mua942
 #Assigment: 2 Q3
 ##Lab L02
+#
+#
+##Synopsis:
+##This program reads game files which contained a played games and the steps taken in the playthrough and replays them determining what outcome happened.
+##This program takes a text file and constructs a gameboard and traces the steps taken and determies the outcome
+
+
+
+
+
 import flavourSW as flavour
 import sys as sys
 

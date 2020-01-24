@@ -1,6 +1,7 @@
-"""
-CMPT 145 Computing with Python Lists, References
-"""
+##Id: 11275853
+##NSID: mua942
+##L02
+
 
 def copy1(data):
     """

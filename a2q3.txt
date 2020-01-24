@@ -1,0 +1,3 @@
+loc represents a roon. By going through a for loop that loops through the 'trip' we take either N,S,W,E depending on the step taken in 'trip' and
+assign loc to be value of the key 's' with 's' being N or S or W Or E (NSWE). Because the value of NSWE is another room,this line (96) "moves" the
+replay through the game as it was played. Basically this line is akin to opening the door to another room and walking though. 
