@@ -1,0 +1,6 @@
+6
+G 1 1
+P 5 1
+P 0 4
+W 5 4
+NEWEENSWWEWS
